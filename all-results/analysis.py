@@ -1,4 +1,7 @@
 import pandas as pd
+import os
+
+threeway = False
 
 df_dr = pd.read_csv("DappRadar.csv")
 df_sd = pd.read_csv("StateDapps.csv")
@@ -50,7 +53,7 @@ unmapped_sddc = 0
 for entry in intersect_sddc:
 	cat_sd = set(df_sd[df_sd["dappNAme"] == entry]["category"])
 	cat_dc = set(df_dc[df_dc["names"] == entry]["cats"])
-	#print("> Check", entry, cat_dr, "vs.", cat_sd)
+	#print("> Check", entry, cat_sd, "vs.", cat_dc)
 	for item_sd in cat_sd:
 		for item_dc in cat_dc:
 			if item_sd.lower() != item_dc.lower():
@@ -60,6 +63,24 @@ for entry in intersect_sddc:
 				unmapped_sddc += 1
 print(mappings_sddc)
 print("Mapped SD/DC", mapped_sddc, "unmapped/samecategory SD/DC", unmapped_sddc)
+
+if threeway:
+	mappings_dcdr = {}
+	mapped_dcdr = 0
+	unmapped_dcdr = 0
+	for entry in intersect_drdc:
+		cat_dc = set(df_dc[df_dc["names"] == entry]["cats"])
+		cat_dr = set(df_dr[df_dr["Name"] == entry]["category"])
+		#print("> Check", entry, cat_dc, "vs.", cat_dr)
+		for item_dc in cat_dc:
+			for item_dr in cat_dr:
+				if item_dc.lower() != item_dr.lower():
+					mappings_dcdr[(item_dc, item_dr)] = mappings_dcdr.get((item_dc, item_dr), 0) + 1
+					mapped_dcdr += 1
+				else:
+					unmapped_dcdr += 1
+	print(mappings_dcdr)
+	print("Mapped DC/DR", mapped_dcdr, "unmapped/samecategory DC/DR", unmapped_dcdr)
 
 f = open("plot.dot", "w")
 print("digraph mappings {", file=f)
@@ -75,4 +96,14 @@ for mappingsource, mappingtarget in mappings_drsd:
 	print("{} -> {} [penwidth={}];".format(mappingsourcex, mappingtargetx, int(mappings_drsd[(mappingsource, mappingtarget)] / 5) + 1), file=f)
 	print("{} [color=\"#ff9090\",style=filled,label=\"{}\",fontsize=22];".format(mappingsourcex, mappingsource), file=f)
 	print("{} [color=\"#9090ff\",style=filled,label=\"{}\",fontsize=22];".format(mappingtargetx, mappingtarget), file=f)
+if threeway:
+	for mappingsource, mappingtarget in mappings_dcdr:
+		mappingsourcex = mappingsource.replace("-", "").replace(" ", "")
+		mappingtargetx = mappingtarget.replace("-", "").replace(" ", "")
+		print("{} -> {} [penwidth={}];".format(mappingsourcex, mappingtargetx, int(mappings_dcdr[(mappingsource, mappingtarget)] / 5) + 1), file=f)
+		#print("{} [color=\"#ff2020\",style=filled,label=\"{}\",fontsize=22];".format(mappingsourcex, mappingsource), file=f)
+		#print("{} [color=\"#2020ff\",style=filled,label=\"{}\",fontsize=22];".format(mappingtargetx, mappingtarget), file=f)
 print("}", file=f)
+f.close()
+
+os.system("dot -Tpng plot.dot > plot.png")
