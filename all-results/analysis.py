@@ -30,6 +30,11 @@ print("Intersection DR/SD", len(intersect_drsd), "=", dr_pct_drsd, "/", sd_pct_d
 print("Intersection DR/DC", len(intersect_drdc), "=", dr_pct_drdc, "/", dc_pct_drdc, "%")
 print("Intersection SD/DC", len(intersect_sddc), "=", sd_pct_sddc, "/", dc_pct_sddc, "%")
 
+intersect_all = list(set(df_dr_name) & set(df_sd_name) & set(df_dc_name))
+pct_all = round(100 * len(intersect_all) / len(set(df_dr_name) | set(df_sd_name) | set(df_dc_name)), 2)
+
+print("Intersection DR/SD/DC", len(intersect_all), "=", pct_all, "%")
+
 mappings_drsd = {}
 mapped_drsd = 0
 unmapped_drsd = 0
