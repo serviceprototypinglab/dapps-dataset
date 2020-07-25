@@ -1,26 +1,51 @@
 Name,category,Balance,User,Volume24,Txn24,platform,github,facebook,twitter,telegram,medium,youtube,reddit,dappLink,smartContract
-Splinterlands,Games,51800.0,6000.0,745.0,486600.0,Hive,null,https://www.facebook.com/officialsplinterlands/,https://twitter.com/splinterlands,https://t.me/splinterlands,null,null,https://www.reddit.com/r/OfficialSteemMonsters/,https://dappradar.com/hive/clickout/20,3
-Tron Investing,High-Risk,22100000.0,5900.0,161700.0,12100.0,TRON,null,null,https://twitter.com/TronInvesting,https://t.me/TronInvestingOff,null,null,null,https://dappradar.com/tron/clickout/686,1
-Bank of TRON,High-Risk,94100000.0,3900.0,207500.0,23500.0,TRON,null,null,null,https://t.me/BankOfTron,null,null,null,https://dappradar.com/tron/clickout/299,1
-Crypto Dynasty (EOS),Games,8100.0,3100.0,1600.0,58100.0,EOS,null,null,https://twitter.com/cryptodynasty_,https://t.me/eossanguo,https://medium.com/@cryptodynastygame,null,null,https://dappradar.com/eos/clickout/1059,5
-EarnBet,Gambling,920700.0,2600.0,2600.0,89500.0,WAX,null,null,https://twitter.com/EarnBetCasino,https://t.me/earnbetcasino,null,null,null,https://dappradar.com/wax/clickout/26,11
+Splinterlands,Games,51800.0,6000.0,2000.0,486000.0,Hive,null,https://www.facebook.com/officialsplinterlands/,https://twitter.com/splinterlands,https://t.me/splinterlands,null,null,https://www.reddit.com/r/OfficialSteemMonsters/,https://dappradar.com/hive/clickout/20,3
+Tron Investing,High-Risk,22100000.0,5900.0,166600.0,12100.0,TRON,null,null,https://twitter.com/TronInvesting,https://t.me/TronInvestingOff,null,null,null,https://dappradar.com/tron/clickout/686,1
+Bank of TRON,High-Risk,93700000.0,3900.0,208600.0,23400.0,TRON,null,null,null,https://t.me/BankOfTron,null,null,null,https://dappradar.com/tron/clickout/299,1
+Crypto Dynasty (EOS),Games,8100.0,3000.0,1400.0,57500.0,EOS,null,null,https://twitter.com/cryptodynasty_,https://t.me/eossanguo,https://medium.com/@cryptodynastygame,null,null,https://dappradar.com/eos/clickout/1059,5
+EarnBet,Gambling,920700.0,2500.0,2600.0,89000.0,WAX,null,null,https://twitter.com/EarnBetCasino,https://t.me/earnbetcasino,null,null,null,https://dappradar.com/wax/clickout/26,11
 Upland,Games,2000.0,1900.0,0.0,5800.0,EOS,null,https://www.facebook.com/uplandme/,https://twitter.com/UplandMe,https://t.me/Upland,https://medium.com/@upland,https://youtu.be/FrtlSOO0ZAQ,null,https://dappradar.com/eos/clickout/1211,2
-PROSPECTORS,Games,2000.0,1900.0,0.0,24500.0,WAX,null,null,null,null,null,null,null,https://dappradar.com/wax/clickout/1,3
-RocketGame,Gambling,1800000.0,1800.0,718200.0,13300.0,TRON,null,null,null,null,null,null,null,https://dappradar.com/tron/clickout/370,19
+PROSPECTORS,Games,2000.0,1900.0,0.0,24400.0,WAX,null,null,null,null,null,null,null,https://dappradar.com/wax/clickout/1,3
+RocketGame,Gambling,1800000.0,1800.0,727900.0,13200.0,TRON,null,null,null,null,null,null,null,https://dappradar.com/tron/clickout/370,19
 Steemit,Social,902.72,1800.0,0.0,7900.0,Steem,null,null,null,null,null,null,null,https://dappradar.com/steem/clickout/9,1
-GooseBet,Gambling,9000000.0,1600.0,22900.0,1700.0,TRON,null,https://www.facebook.com/GooseBet,https://twitter.com/Goosebet_io,null,null,null,null,https://dappradar.com/tron/clickout/665,2
-WINk,Gambling,13100000.0,1500.0,1700000.0,114200.0,TRON,null,null,null,null,null,null,null,https://dappradar.com/tron/clickout/2,19
-1cent,Gambling,13400.0,1500.0,19300.0,5600.0,TRON,null,null,null,null,null,null,null,https://dappradar.com/tron/clickout/621,3
-Hive Blog,Social,1.68,1400.0,0.0,6000.0,Hive,null,null,null,null,null,null,null,https://dappradar.com/hive/clickout/1,2
-IOI-game,Games,20200.0,1400.0,257.0,1400.0,TRON,null,https://www.facebook.com/groups/1337238566451914/?ref=bookmarks,https://twitter.com/IOI_Game,https://t.me/IOIGAME,null,null,null,https://dappradar.com/tron/clickout/635,2
+GooseBet,Gambling,9000000.0,1600.0,23000.0,1700.0,TRON,null,https://www.facebook.com/GooseBet,https://twitter.com/Goosebet_io,null,null,null,null,https://dappradar.com/tron/clickout/665,2
+WINk,Gambling,13300000.0,1600.0,1700000.0,114600.0,TRON,null,null,null,null,null,null,null,https://dappradar.com/tron/clickout/2,19
+1cent,Gambling,13400.0,1500.0,18900.0,5300.0,TRON,null,null,null,null,null,null,null,https://dappradar.com/tron/clickout/621,3
+Hive Blog,Social,1.68,1400.0,0.0,5900.0,Hive,null,null,null,null,null,null,null,https://dappradar.com/hive/clickout/1,2
+IOI-game,Games,20800.0,1400.0,260.0,1400.0,TRON,null,https://www.facebook.com/groups/1337238566451914/?ref=bookmarks,https://twitter.com/IOI_Game,https://t.me/IOIGAME,null,null,null,https://dappradar.com/tron/clickout/635,2
 Peakd,Social,1900.0,1400.0,10.0,5400.0,Hive,null,null,null,null,null,null,null,https://dappradar.com/hive/clickout/2,1
-Poloni DEX,Exchanges,8199999.999999999,1400.0,387900.0,12900.0,TRON,null,null,null,null,null,null,null,https://dappradar.com/tron/clickout/21,6
-TronTrade,Exchanges,8600000.0,1300.0,735200.0,14900.0,TRON,null,null,null,null,null,null,null,https://dappradar.com/tron/clickout/70,5
-1inch,DeFi,0.0,1200.0,38700000.0,2800.0,ETH,null,null,null,null,null,null,null,https://dappradar.com/eth/clickout/1559,17
+Poloni DEX,Exchanges,8000000.0,1400.0,406800.0,13000.0,TRON,null,null,null,null,null,null,null,https://dappradar.com/tron/clickout/21,6
+TronTrade,Exchanges,8300000.000000001,1200.0,702200.0,14600.0,TRON,null,null,null,null,null,null,null,https://dappradar.com/tron/clickout/70,5
+1inch,DeFi,0.0,1200.0,56300000.0,3100.0,ETH,null,null,null,null,null,null,null,https://dappradar.com/eth/clickout/1559,17
 PROSPECTORS,Games,10.99,1200.0,0.0,13200.0,EOS,null,null,null,null,null,null,null,https://dappradar.com/eos/clickout/976,4
-RinoBet,Gambling,36600.0,1200.0,21.0,1200.0,TRON,null,null,https://twitter.com/Rinobet_top,https://t.me/rinobetvip,null,null,null,https://dappradar.com/tron/clickout/677,2
-Forsage,High-Risk,0.0,1100.0,973700.0,10200.0,ETH,null,https://fb.me/metasvoboda,null,null,null,https://www.youtube.com/watch?v=T4XRiOeV3f0,null,https://dappradar.com/eth/clickout/1801,1
-Newdex,Exchanges,150700.0,1100.0,26800000.0,70700.0,EOS,null,null,null,null,null,null,null,https://dappradar.com/eos/clickout/669,2
-DrugWars,Games,170.04,893.0,1.0,990.0,Steem,null,null,null,null,null,null,null,https://dappradar.com/steem/clickout/2,2
-888TRON,Gambling,8600000.0,856.0,307000.0,16800.0,TRON,null,null,https://twitter.com/888Tron,https://t.me/tron888,null,null,null,https://dappradar.com/tron/clickout/22,3
-Yup,Social,7.56,784.0,0.0,52600.0,EOS,null,null,https://www.twitter.com/yup_io,null,null,https://www.youtube.com/watch?v=aDiLa9Gu7hc&pbjreload=10,null,https://dappradar.com/eos/clickout/1120,3
+RinoBet,Gambling,36700.0,1200.0,21.0,1200.0,TRON,null,null,https://twitter.com/Rinobet_top,https://t.me/rinobetvip,null,null,null,https://dappradar.com/tron/clickout/677,2
+Forsage,High-Risk,0.0,1100.0,972000.0,10200.0,ETH,null,https://fb.me/metasvoboda,null,null,null,https://www.youtube.com/watch?v=T4XRiOeV3f0,null,https://dappradar.com/eth/clickout/1801,1
+Newdex,Exchanges,152100.0,1100.0,26700000.0,71300.0,EOS,null,null,null,null,null,null,null,https://dappradar.com/eos/clickout/669,2
+DrugWars,Games,170.48,893.0,1.0,990.0,Steem,null,null,null,null,null,null,null,https://dappradar.com/steem/clickout/2,2
+888TRON,Gambling,8600000.0,845.0,306200.0,16600.0,TRON,null,null,https://twitter.com/888Tron,https://t.me/tron888,null,null,null,https://dappradar.com/tron/clickout/22,3
+Yup,Social,7.56,817.0,0.0,50900.0,EOS,null,null,https://www.twitter.com/yup_io,null,null,https://www.youtube.com/watch?v=aDiLa9Gu7hc&pbjreload=10,null,https://dappradar.com/eos/clickout/1120,3
+CryptoTree,Collectibles,65099.99999999999,733.0,925.0,2900.0,TRON,null,https://facebook.com/BabaoTree,https://twitter.com/babaoshu,https://t.me/fudeshu,null,null,null,https://dappradar.com/tron/clickout/488,20
+IDEX,Exchanges,47800.0,726.0,2200000.0,8300.0,ETH,null,null,null,null,null,null,null,https://dappradar.com/eth/clickout/165,1
+Esteem,Social,966.93,686.0,0.0,3000.0,Hive,null,null,null,null,null,null,null,https://dappradar.com/hive/clickout/3,5
+Serious Dice,Gambling,13000.0,686.0,3300.0,34400.0,ThunderCore,null,null,null,null,null,null,null,https://dappradar.com/thundercore/clickout/23,1
+Uniswap,Exchanges,40400.0,669.0,3100000.0,1500.0,ETH,null,null,https://twitter.com/UniswapProtocol,null,null,null,https://www.reddit.com/r/UniSwap/,https://dappradar.com/eth/clickout/1602,3390
+Bitlex Games & Sport,Gambling,471700.0,627.0,154500.0,3300.0,TRON,null,null,null,null,null,null,null,https://dappradar.com/tron/clickout/527,2
+Synthetix,DeFi,0.0,610.0,0.0,1200.0,ETH,null,null,null,null,null,null,null,https://dappradar.com/eth/clickout/1810,88
+CryptoFriends,High-Risk,3600.0,590.0,3600.0,606.0,TRON,null,null,null,null,null,null,null,https://dappradar.com/tron/clickout/446,1
+Felix,Gambling,114800.0,588.0,729600.0,48500.0,EOS,null,https://www.facebook.com/FELIX-100895148142235/?modal=admin_todo_tour,https://twitter.com/FELIX_EOSDAPP?s=09,null,null,null,null,https://dappradar.com/eos/clickout/1209,8
+Chain Clash,Games,1900.0,575.0,15.0,2300.0,EOS,null,null,https://twitter.com/chainclash,null,https://medium.com/chain-clash,https://www.youtube.com/channel/UCy2ES3OfAg6b-6FTMfO1XaQ,null,https://dappradar.com/eos/clickout/1147,3
+APPICS,Other,0.0,575.0,0.0,2500.0,Steem,null,null,null,null,null,null,null,https://dappradar.com/steem/clickout/10,2
+MakerDAO,DeFi,0.0,570.0,18300000.0,380.0,ETH,null,null,https://twitter.com/MakerDAO,https://t.me/makerdaoOfficial,null,https://www.youtube.com/MakerDAO,https://www.reddit.com/r/makerdao,https://dappradar.com/eth/clickout/791,49
+ChainZ Arena - Play and Earn,Games,47200000.0,569.0,66500.0,4000.0,TRON,null,null,https://twitter.com/ChainZ_Arena,null,https://medium.com/@ChainZArena,https://www.youtube.com/watch?v=6DMec1GGB_s,null,https://dappradar.com/tron/clickout/631,3
+Aave,DeFi,60200.0,562.0,37400000.0,1000.0,ETH,null,https://www.facebook.com/AaveCom/,https://twitter.com/AaveAave,https://t.me/Aavesome,https://medium.com/aave,https://www.youtube.com/watch?v=BiseNyNpniE,https://www.reddit.com/r/Aave_Official/,https://dappradar.com/eth/clickout/1823,19
+Compound,DeFi,976500.0,514.0,135800000.0,732.0,ETH,null,null,https://twitter.com/compoundfinance,null,https://medium.com/compound-finance,null,null,https://dappradar.com/eth/clickout/989,8
+GoodLuck Casino,Gambling,262200.0,487.0,569.0,570.0,TRON,null,null,null,null,null,null,null,https://dappradar.com/tron/clickout/204,1
+TRON Money,High-Risk,490700.0,484.0,815.0,657.0,TRON,null,null,null,null,null,null,null,https://dappradar.com/tron/clickout/698,1
+NEXUS TRON,High-Risk,1000000.0,481.0,188.0,548.0,TRON,null,null,null,https://t.me/NEXUS_Dapp,null,https://www.youtube.com/channel/UCThfy1KAsPXF6c4stdk6lrA,null,https://dappradar.com/tron/clickout/654,2
+JUST,DeFi,1000000000.0,479.0,54.0,1800.0,TRON,null,null,https://twitter.com/defi_just,https://t.me/just_defi,null,null,null,https://dappradar.com/tron/clickout/628,19
+T2X,High-Risk,15200000.0,468.0,40100.0,1400.0,TRON,null,null,https://twitter.com/t2xtoken,null,null,null,null,https://dappradar.com/tron/clickout/685,1
+Video Poker,Gambling,6000.0,456.0,8.0,475.0,TRON,null,null,null,null,null,null,null,https://dappradar.com/tron/clickout/391,1
+BlackJack,Gambling,18900.0,400.0,11.0,418.0,TRON,null,null,null,null,null,null,null,https://dappradar.com/tron/clickout/358,1
+Curve,DeFi,0.0,399.0,113500000.0,625.0,ETH,null,null,https://twitter.com/CurveFinance,null,null,null,null,https://dappradar.com/eth/clickout/1911,5
+TRONMatrix ~ multiply your TRX!,High-Risk,27700.0,395.0,4100.0,511.0,TRON,null,null,null,https://t.me/TRONMatrix,null,null,null,https://dappradar.com/tron/clickout/687,2
+High & Low,Gambling,7700.0,374.0,7.0,393.0,TRON,null,null,null,null,null,null,null,https://dappradar.com/tron/clickout/399,1
