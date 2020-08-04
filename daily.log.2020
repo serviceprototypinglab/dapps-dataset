@@ -113,3 +113,1316 @@ DApp https://dappradar.com/tron/399/high-low
 Plotting...
 There is no file to compare with
 Finished: 2020-07-25T07:29:20.778906
+Crawl date: 2020-07-26T03:00:02.417208
+Crawl executable: /opt/google/chrome/google-chrome
+Crawl site: https://dappradar.com/rankings
+Crawl pages: 2.0
+Crawl DApps Index Length: 26 at index -1
+nextpage: https://dappradar.com/rankings/2
+Crawl DApps Index Length: 26 at index 0
+Crawl DApps Total Length: 50 capped at 100
+Crawl DApps: 50 with links 50
+DApps:                                Name      category  ...   Txn24     platform
+0                    Tron Investing     High-Risk  ...   13.2k         TRON
+1                     Splinterlands         Games  ...  519.8k         Hive
+2                      Bank of TRON     High-Risk  ...   25.2k         TRON
+3              Crypto Dynasty (EOS)         Games  ...   64.1k          EOS
+4                           EarnBet      Gambling  ...   72.4k          WAX
+5                       PROSPECTORS         Games  ...   24.5k          WAX
+6                            Upland         Games  ...    5.7k          EOS
+7                           Steemit        Social  ...    6.6k        Steem
+8                        RocketGame      Gambling  ...   15.5k         TRON
+9                          GooseBet      Gambling  ...    1.6k         TRON
+10                             WINk      Gambling  ...  120.4k         TRON
+11                              Yup        Social  ...      6k          EOS
+12                            1cent      Gambling  ...    6.2k         TRON
+13                       Poloni DEX     Exchanges  ...   12.9k         TRON
+14                         IOI-game         Games  ...    1.4k         TRON
+15                        Hive Blog        Social  ...    5.2k         Hive
+16                            Peakd        Social  ...      5k         Hive
+17                            1inch          DeFi  ...    3.1k          ETH
+18                        TronTrade     Exchanges  ...   13.7k         TRON
+19                      PROSPECTORS         Games  ...   13.1k          EOS
+20                          RinoBet      Gambling  ...    1.2k         TRON
+21                          Forsage     High-Risk  ...    9.5k          ETH
+22                         DrugWars         Games  ...      1k        Steem
+23                           Newdex     Exchanges  ...   73.9k          EOS
+24                          888TRON      Gambling  ...   17.8k         TRON
+25                       CryptoTree  Collectibles  ...    2.9k         TRON
+26                             IDEX     Exchanges  ...    8.5k          ETH
+27                           Esteem        Social  ...    2.9k         Hive
+28                          Uniswap     Exchanges  ...    1.6k          ETH
+29                     Serious Dice      Gambling  ...   41.2k  ThunderCore
+30                    CryptoFriends     High-Risk  ...     636         TRON
+31             Bitlex Games & Sport      Gambling  ...    3.3k         TRON
+32                           APPICS         Other  ...    2.6k        Steem
+33                         Compound          DeFi  ...     856          ETH
+34     ChainZ Arena - Play and Earn         Games  ...    3.3k         TRON
+35                            Felix      Gambling  ...   39.4k          EOS
+36                      Chain Clash         Games  ...    2.4k          EOS
+37                        Synthetix          DeFi  ...     938          ETH
+38                         MakerDAO          DeFi  ...     280          ETH
+39                       TRON Money     High-Risk  ...     679         TRON
+40                  GoodLuck Casino      Gambling  ...     601         TRON
+41                             JUST          DeFi  ...    1.4k         TRON
+42                       NEXUS TRON     High-Risk  ...     523         TRON
+43                             Aave          DeFi  ...     886          ETH
+44                            Curve          DeFi  ...     774          ETH
+45  TRONMatrix ~ multiply your TRX!     High-Risk  ...     642         TRON
+46                      Video Poker      Gambling  ...     475         TRON
+47                              T2X     High-Risk  ...    1.4k         TRON
+48                        BlackJack      Gambling  ...     429         TRON
+49                       High & Low      Gambling  ...     400         TRON
+
+[50 rows x 7 columns]
+DApp https://dappradar.com/tron/686/tron-investing
+DApp https://dappradar.com/hive/20/splinterlands
+DApp https://dappradar.com/tron/299/bank-of-tron
+DApp https://dappradar.com/eos/1059/crypto-dynasty-eos
+DApp https://dappradar.com/wax/26/earnbet
+DApp https://dappradar.com/wax/1/prospectors
+DApp https://dappradar.com/eos/1211/upland
+DApp https://dappradar.com/steem/9/steemit
+DApp https://dappradar.com/tron/370/rocketgame
+DApp https://dappradar.com/tron/665/goosebet
+DApp https://dappradar.com/tron/2/wink
+DApp https://dappradar.com/eos/1120/yup
+DApp https://dappradar.com/tron/621/1cent
+DApp https://dappradar.com/tron/21/poloni-dex
+DApp https://dappradar.com/tron/635/ioi-game
+DApp https://dappradar.com/hive/1/hive-blog
+DApp https://dappradar.com/hive/2/peakd
+DApp https://dappradar.com/app/1559/1inch
+DApp https://dappradar.com/tron/70/trontrade
+DApp https://dappradar.com/eos/976/prospectors
+DApp https://dappradar.com/tron/677/rinobet
+DApp https://dappradar.com/app/1801/forsage
+DApp https://dappradar.com/steem/2/drugwars
+DApp https://dappradar.com/eos/669/newdex
+DApp https://dappradar.com/tron/22/888tron
+DApp https://dappradar.com/tron/488/cryptotree
+DApp https://dappradar.com/app/165/idex
+DApp https://dappradar.com/hive/3/esteem
+DApp https://dappradar.com/app/1602/uniswap
+DApp https://dappradar.com/thundercore/23/serious-dice
+DApp https://dappradar.com/tron/446/cryptofriends
+DApp https://dappradar.com/tron/527/bitlex-games-sport
+DApp https://dappradar.com/steem/10/appics
+DApp https://dappradar.com/app/989/compound
+DApp https://dappradar.com/tron/631/chainz-arena-play-and-earn
+DApp https://dappradar.com/eos/1209/felix
+DApp https://dappradar.com/eos/1147/chain-clash
+DApp https://dappradar.com/app/1810/synthetix
+DApp https://dappradar.com/app/791/makerdao
+DApp https://dappradar.com/tron/698/tron-money
+DApp https://dappradar.com/tron/204/goodluck-casino
+DApp https://dappradar.com/tron/628/just
+DApp https://dappradar.com/tron/654/nexus-tron
+DApp https://dappradar.com/app/1823/aave
+DApp https://dappradar.com/app/1911/curve
+DApp https://dappradar.com/tron/687/tronmatrix-multiply-your-trx
+DApp https://dappradar.com/tron/391/video-poker
+DApp https://dappradar.com/tron/685/t2x
+DApp https://dappradar.com/tron/358/blackjack
+DApp https://dappradar.com/tron/399/high-low
+Plotting...
+
+ [1m There is no new DApps[0m 
+
+
+ [1m There is no removed DApps[0m 
+
+Finished: 2020-07-26T03:01:47.097226
+Crawl date: 2020-07-27T03:00:20.295798
+Crawl executable: /opt/google/chrome/google-chrome
+Crawl site: https://dappradar.com/rankings
+Crawl pages: 2.0
+Crawl DApps Index Length: 26 at index -1
+nextpage: https://dappradar.com/rankings/2
+Crawl DApps Index Length: 26 at index 0
+Crawl DApps Total Length: 50 capped at 100
+Crawl DApps: 50 with links 50
+DApps:                                Name      category  ...   Txn24     platform
+0                    Tron Investing     High-Risk  ...     14k         TRON
+1                     Splinterlands         Games  ...  518.8k         Hive
+2                      Bank of TRON     High-Risk  ...     26k         TRON
+3              Crypto Dynasty (EOS)         Games  ...   64.1k          EOS
+4                           EarnBet      Gambling  ...   68.6k          WAX
+5                         TronShare        Social  ...   22.2k         TRON
+6                        RocketGame      Gambling  ...   14.1k         TRON
+7                            Upland         Games  ...    6.2k          EOS
+8                       PROSPECTORS         Games  ...   24.3k          WAX
+9                           Steemit        Social  ...      7k        Steem
+10                             WINk      Gambling  ...  118.1k         TRON
+11                         GooseBet      Gambling  ...    1.7k         TRON
+12                       Poloni DEX     Exchanges  ...   15.5k         TRON
+13                            1cent      Gambling  ...    7.5k         TRON
+14                         IOI-game         Games  ...    1.4k         TRON
+15                        Hive Blog        Social  ...    5.9k         Hive
+16                            Peakd        Social  ...    5.4k         Hive
+17                        TronTrade     Exchanges  ...   15.6k         TRON
+18                      PROSPECTORS         Games  ...   13.9k          EOS
+19                            1inch          DeFi  ...    2.6k          ETH
+20                           Newdex     Exchanges  ...   63.7k          EOS
+21                          Forsage     High-Risk  ...    7.7k          ETH
+22                       CryptoTree  Collectibles  ...    1.9k         TRON
+23                        399Energy     High-Risk  ...    1.2k          ETH
+24                              Yup        Social  ...    3.8k          EOS
+25                          Uniswap     Exchanges  ...    1.6k          ETH
+26                             IDEX     Exchanges  ...    7.1k          ETH
+27                           Esteem        Social  ...    3.1k         Hive
+28                     Serious Dice      Gambling  ...   48.8k  ThunderCore
+29                        Synthetix          DeFi  ...    1.3k          ETH
+30                        BlockBase         Other  ...     657          EOS
+31                           APPICS         Other  ...    2.8k        Steem
+32                         Compound          DeFi  ...     767          ETH
+33             Bitlex Games & Sport      Gambling  ...    3.3k         TRON
+34                       TRON Money     High-Risk  ...     845         TRON
+35                            Felix      Gambling  ...     46k          EOS
+36                    CryptoFriends     High-Risk  ...     593         TRON
+37                      Chain Clash         Games  ...    2.3k          EOS
+38                     COSMOS GAMES      Gambling  ...   20.4k         TRON
+39                             Aave          DeFi  ...     995          ETH
+40     ChainZ Arena - Play and Earn         Games  ...    3.4k         TRON
+41                  GoodLuck Casino      Gambling  ...     587         TRON
+42                       NEXUS TRON     High-Risk  ...     527         TRON
+43  TRONMatrix ~ multiply your TRX!     High-Risk  ...     592         TRON
+44                      Video Poker      Gambling  ...     474         TRON
+45                              T2X     High-Risk  ...    1.2k         TRON
+46                    EvolutionLand         Games  ...     664          ETH
+47                         MakerDAO          DeFi  ...     195          ETH
+48                         Balancer     Exchanges  ...     394          ETH
+49                        BlackJack      Gambling  ...     417         TRON
+
+[50 rows x 7 columns]
+DApp https://dappradar.com/tron/686/tron-investing
+DApp https://dappradar.com/hive/20/splinterlands
+DApp https://dappradar.com/tron/299/bank-of-tron
+DApp https://dappradar.com/eos/1059/crypto-dynasty-eos
+DApp https://dappradar.com/wax/26/earnbet
+DApp https://dappradar.com/tron/703/tronshare
+DApp https://dappradar.com/tron/370/rocketgame
+DApp https://dappradar.com/eos/1211/upland
+DApp https://dappradar.com/wax/1/prospectors
+DApp https://dappradar.com/steem/9/steemit
+DApp https://dappradar.com/tron/2/wink
+DApp https://dappradar.com/tron/665/goosebet
+DApp https://dappradar.com/tron/21/poloni-dex
+DApp https://dappradar.com/tron/621/1cent
+DApp https://dappradar.com/tron/635/ioi-game
+DApp https://dappradar.com/hive/1/hive-blog
+DApp https://dappradar.com/hive/2/peakd
+DApp https://dappradar.com/tron/70/trontrade
+DApp https://dappradar.com/eos/976/prospectors
+DApp https://dappradar.com/app/1559/1inch
+DApp https://dappradar.com/eos/669/newdex
+DApp https://dappradar.com/app/1801/forsage
+DApp https://dappradar.com/tron/488/cryptotree
+DApp https://dappradar.com/app/1993/399energy
+Bailout smart contracts: https://dappradar.com/app/1993/399energy
+Retry...
+DApp https://dappradar.com/app/1993/399energy
+DApp https://dappradar.com/eos/1120/yup
+DApp https://dappradar.com/app/1602/uniswap
+DApp https://dappradar.com/app/165/idex
+DApp https://dappradar.com/hive/3/esteem
+DApp https://dappradar.com/thundercore/23/serious-dice
+DApp https://dappradar.com/app/1810/synthetix
+DApp https://dappradar.com/eos/1230/blockbase
+DApp https://dappradar.com/steem/10/appics
+DApp https://dappradar.com/app/989/compound
+DApp https://dappradar.com/tron/527/bitlex-games-sport
+DApp https://dappradar.com/tron/698/tron-money
+DApp https://dappradar.com/eos/1209/felix
+DApp https://dappradar.com/tron/446/cryptofriends
+DApp https://dappradar.com/eos/1147/chain-clash
+DApp https://dappradar.com/tron/596/cosmos-games
+DApp https://dappradar.com/app/1823/aave
+DApp https://dappradar.com/tron/631/chainz-arena-play-and-earn
+DApp https://dappradar.com/tron/204/goodluck-casino
+DApp https://dappradar.com/tron/654/nexus-tron
+DApp https://dappradar.com/tron/687/tronmatrix-multiply-your-trx
+DApp https://dappradar.com/tron/391/video-poker
+DApp https://dappradar.com/tron/685/t2x
+DApp https://dappradar.com/app/1192/evolutionland
+DApp https://dappradar.com/app/791/makerdao
+DApp https://dappradar.com/app/2014/balancer
+DApp https://dappradar.com/tron/358/blackjack
+Plotting...
+
+ [1m The new dapps added: 6 DApps[0m 
+
+          Name  ... smartContract
+20     RinoBet  ...             2
+22    DrugWars  ...             2
+24     888TRON  ...             3
+41        JUST  ...            19
+44       Curve  ...             5
+49  High & Low  ...             1
+
+[6 rows x 16 columns]
+
+ [1m The removed dapps: 6 DApps [0m 
+
+             Name  ... smartContract
+5       TronShare  ...             4
+23      399Energy  ...             1
+30      BlockBase  ...             2
+38   COSMOS GAMES  ...             4
+46  EvolutionLand  ...            80
+48       Balancer  ...           671
+
+[6 rows x 16 columns]
+Finished: 2020-07-27T03:02:28.965167
+Crawl date: 2020-07-28T03:00:02.483050
+Crawl executable: /opt/google/chrome/google-chrome
+Crawl site: https://dappradar.com/rankings
+Crawl pages: 2.0
+Crawl DApps Index Length: 25 at index -1
+nextpage: https://dappradar.com/rankings/2
+Crawl DApps Index Length: 25 at index 0
+Crawl DApps Total Length: 50 capped at 100
+Crawl DApps: 50 with links 50
+DApps:                                Name      category  ...   Txn24     platform
+0                    Tron Investing     High-Risk  ...   14.6k         TRON
+1                     Splinterlands         Games  ...  544.1k         Hive
+2                      Bank of TRON     High-Risk  ...     27k         TRON
+3              Crypto Dynasty (EOS)         Games  ...   61.4k          EOS
+4                           EarnBet      Gambling  ...  119.8k          WAX
+5                            Upland         Games  ...    6.1k          EOS
+6                       PROSPECTORS         Games  ...   23.5k          WAX
+7                        RocketGame      Gambling  ...   14.9k         TRON
+8                           Steemit        Social  ...    6.8k        Steem
+9                              WINk      Gambling  ...  110.8k         TRON
+10                         GooseBet      Gambling  ...    1.7k         TRON
+11                       Poloni DEX     Exchanges  ...   14.9k         TRON
+12                      Chain Clash         Games  ...    6.4k          EOS
+13                            Peakd        Social  ...    5.6k         Hive
+14                        Hive Blog        Social  ...    5.6k         Hive
+15                         IOI-game         Games  ...    1.4k         TRON
+16                            1cent      Gambling  ...    5.1k         TRON
+17                      PROSPECTORS         Games  ...   13.2k          EOS
+18                        TronTrade     Exchanges  ...   14.7k         TRON
+19                            1inch          DeFi  ...    2.5k          ETH
+20                          RinoBet      Gambling  ...    1.1k         TRON
+21                           Newdex     Exchanges  ...   58.1k          EOS
+22                         DrugWars         Games  ...     975        Steem
+23                             IDEX     Exchanges  ...    8.2k          ETH
+24                       CryptoTree  Collectibles  ...    2.3k         TRON
+25                        399Energy     High-Risk  ...    1.4k          ETH
+26                              Yup        Social  ...    3.3k          EOS
+27                          Forsage     High-Risk  ...    6.5k          ETH
+28                           Esteem        Social  ...    2.9k         Hive
+29                        Synthetix          DeFi  ...    1.3k          ETH
+30                     Serious Dice      Gambling  ...   28.8k  ThunderCore
+31                          Uniswap     Exchanges  ...    1.7k          ETH
+32             Bitlex Games & Sport      Gambling  ...    3.3k         TRON
+33                           APPICS         Other  ...    2.7k        Steem
+34                            Felix      Gambling  ...   59.3k          EOS
+35                    CryptoFriends     High-Risk  ...     592         TRON
+36                       TRON Money     High-Risk  ...     872         TRON
+37                         Compound          DeFi  ...     776          ETH
+38                     COSMOS GAMES      Gambling  ...   23.8k         TRON
+39                             Aave          DeFi  ...     943          ETH
+40                     Tron Funding     High-Risk  ...    1.6k         TRON
+41     ChainZ Arena - Play and Earn         Games  ...    3.2k         TRON
+42                              HEX     High-Risk  ...     863          ETH
+43                       NEXUS TRON     High-Risk  ...     523         TRON
+44                  GoodLuck Casino      Gambling  ...     582         TRON
+45                              T2X     High-Risk  ...    1.3k         TRON
+46                    EvolutionLand         Games  ...     754          ETH
+47                      Video Poker      Gambling  ...     471         TRON
+48                            Trich      Gambling  ...    6.1k         TRON
+49  TRONMatrix ~ multiply your TRX!     High-Risk  ...     512         TRON
+
+[50 rows x 7 columns]
+DApp https://dappradar.com/tron/686/tron-investing
+DApp https://dappradar.com/hive/20/splinterlands
+DApp https://dappradar.com/tron/299/bank-of-tron
+DApp https://dappradar.com/eos/1059/crypto-dynasty-eos
+DApp https://dappradar.com/wax/26/earnbet
+DApp https://dappradar.com/eos/1211/upland
+DApp https://dappradar.com/wax/1/prospectors
+DApp https://dappradar.com/tron/370/rocketgame
+DApp https://dappradar.com/steem/9/steemit
+DApp https://dappradar.com/tron/2/wink
+DApp https://dappradar.com/tron/665/goosebet
+DApp https://dappradar.com/tron/21/poloni-dex
+DApp https://dappradar.com/eos/1147/chain-clash
+DApp https://dappradar.com/hive/2/peakd
+DApp https://dappradar.com/hive/1/hive-blog
+DApp https://dappradar.com/tron/635/ioi-game
+DApp https://dappradar.com/tron/621/1cent
+DApp https://dappradar.com/eos/976/prospectors
+DApp https://dappradar.com/tron/70/trontrade
+DApp https://dappradar.com/app/1559/1inch
+DApp https://dappradar.com/tron/677/rinobet
+DApp https://dappradar.com/eos/669/newdex
+DApp https://dappradar.com/steem/2/drugwars
+DApp https://dappradar.com/app/165/idex
+DApp https://dappradar.com/tron/488/cryptotree
+DApp https://dappradar.com/app/1993/399energy
+DApp https://dappradar.com/eos/1120/yup
+DApp https://dappradar.com/app/1801/forsage
+DApp https://dappradar.com/hive/3/esteem
+DApp https://dappradar.com/app/1810/synthetix
+DApp https://dappradar.com/thundercore/23/serious-dice
+DApp https://dappradar.com/app/1602/uniswap
+Bailout smart contracts: https://dappradar.com/app/1602/uniswap
+Retry...
+DApp https://dappradar.com/app/1602/uniswap
+DApp https://dappradar.com/tron/527/bitlex-games-sport
+DApp https://dappradar.com/steem/10/appics
+DApp https://dappradar.com/eos/1209/felix
+DApp https://dappradar.com/tron/446/cryptofriends
+DApp https://dappradar.com/tron/698/tron-money
+DApp https://dappradar.com/app/989/compound
+DApp https://dappradar.com/tron/596/cosmos-games
+DApp https://dappradar.com/app/1823/aave
+DApp https://dappradar.com/tron/706/tron-funding
+DApp https://dappradar.com/tron/631/chainz-arena-play-and-earn
+DApp https://dappradar.com/app/1747/hex
+DApp https://dappradar.com/tron/654/nexus-tron
+DApp https://dappradar.com/tron/204/goodluck-casino
+DApp https://dappradar.com/tron/685/t2x
+DApp https://dappradar.com/app/1192/evolutionland
+DApp https://dappradar.com/tron/391/video-poker
+DApp https://dappradar.com/tron/668/trich
+DApp https://dappradar.com/tron/687/tronmatrix-multiply-your-trx
+Plotting...
+
+ [1m The new dapps added: 5 DApps[0m 
+
+         Name  ... smartContract
+5   TronShare  ...             4
+30  BlockBase  ...             2
+47   MakerDAO  ...            49
+48   Balancer  ...           671
+49  BlackJack  ...             1
+
+[5 rows x 16 columns]
+
+ [1m The removed dapps: 5 DApps [0m 
+
+            Name  ... smartContract
+20       RinoBet  ...             2
+22      DrugWars  ...             2
+40  Tron Funding  ...             1
+42           HEX  ...             1
+48         Trich  ...             7
+
+[5 rows x 16 columns]
+Finished: 2020-07-28T03:01:52.432825
+Crawl date: 2020-07-29T03:00:02.317994
+Crawl executable: /opt/google/chrome/google-chrome
+Crawl site: https://dappradar.com/rankings
+Crawl pages: 2.0
+Crawl DApps Index Length: 26 at index -1
+nextpage: https://dappradar.com/rankings/2
+Crawl DApps Index Length: 25 at index 0
+Crawl DApps Total Length: 50 capped at 100
+Crawl DApps: 50 with links 50
+DApps:                             Name      category  ...   Txn24     platform
+0                 Tron Investing     High-Risk  ...   15.9k         TRON
+1                  Splinterlands         Games  ...  558.4k         Hive
+2                   Bank of TRON     High-Risk  ...   27.8k         TRON
+3           Crypto Dynasty (EOS)         Games  ...   56.1k          EOS
+4                        EarnBet      Gambling  ...  133.8k          WAX
+5                    PROSPECTORS         Games  ...   23.9k          WAX
+6                         Upland         Games  ...    6.1k          EOS
+7                        Steemit        Social  ...    6.7k        Steem
+8                           WINk      Gambling  ...  115.7k         TRON
+9                       GooseBet      Gambling  ...    1.7k         TRON
+10                         1cent      Gambling  ...    5.6k         TRON
+11                    Poloni DEX     Exchanges  ...   13.2k         TRON
+12                     Hive Blog        Social  ...    5.6k         Hive
+13                      IOI-game         Games  ...    1.4k         TRON
+14                         Peakd        Social  ...    5.5k         Hive
+15                    RocketGame      Gambling  ...   13.8k         TRON
+16                   PROSPECTORS         Games  ...   13.5k          EOS
+17                     TronTrade     Exchanges  ...   14.2k         TRON
+18                       Forsage     High-Risk  ...    9.2k          ETH
+19                         1inch          DeFi  ...    1.9k          ETH
+20                        Newdex     Exchanges  ...   58.2k          EOS
+21                           Yup        Social  ...    4.9k          EOS
+22                    CryptoTree  Collectibles  ...    2.4k         TRON
+23                      DrugWars         Games  ...     845        Steem
+24                        Esteem        Social  ...    2.8k         Hive
+25                  Tron Funding     High-Risk  ...    2.3k         TRON
+26                   Chain Clash         Games  ...      3k          EOS
+27                          IDEX     Exchanges  ...    5.5k          ETH
+28                         Trich      Gambling  ...    6.1k         TRON
+29                  Serious Dice      Gambling  ...   34.3k  ThunderCore
+30                       Uniswap     Exchanges  ...    1.5k          ETH
+31                     Synthetix          DeFi  ...    1.3k          ETH
+32                           HEX     High-Risk  ...    1.1k          ETH
+33                    TRON Money     High-Risk  ...    1.2k         TRON
+34                        APPICS         Other  ...    2.4k        Steem
+35                         Felix      Gambling  ...   54.8k          EOS
+36          Bitlex Games & Sport      Gambling  ...    3.2k         TRON
+37                 CryptoFriends     High-Risk  ...     606         TRON
+38                      Compound          DeFi  ...     753          ETH
+39                  COSMOS GAMES      Gambling  ...   24.4k         TRON
+40                       888TRON      Gambling  ...    9.7k         TRON
+41  ChainZ Arena - Play and Earn         Games  ...    2.9k         TRON
+42                          Aave          DeFi  ...     973          ETH
+43               GoodLuck Casino      Gambling  ...     593         TRON
+44                           T2X     High-Risk  ...    1.5k         TRON
+45                    NEXUS TRON     High-Risk  ...     529         TRON
+46                   Video Poker      Gambling  ...     478         TRON
+47                    Oikos.cash          DeFi  ...    1.9k         TRON
+48                     BlackJack      Gambling  ...     421         TRON
+49                       TronSky     High-Risk  ...     798         TRON
+
+[50 rows x 7 columns]
+DApp https://dappradar.com/tron/686/tron-investing
+DApp https://dappradar.com/hive/20/splinterlands
+DApp https://dappradar.com/tron/299/bank-of-tron
+DApp https://dappradar.com/eos/1059/crypto-dynasty-eos
+DApp https://dappradar.com/wax/26/earnbet
+Bailout smart contracts: https://dappradar.com/wax/26/earnbet
+Retry...
+DApp https://dappradar.com/wax/26/earnbet
+DApp https://dappradar.com/wax/1/prospectors
+Bailout smart contracts: https://dappradar.com/wax/1/prospectors
+Retry...
+DApp https://dappradar.com/wax/1/prospectors
+Bailout smart contracts: https://dappradar.com/wax/1/prospectors
+Retry...
+DApp https://dappradar.com/wax/1/prospectors
+DApp https://dappradar.com/eos/1211/upland
+DApp https://dappradar.com/steem/9/steemit
+DApp https://dappradar.com/tron/2/wink
+DApp https://dappradar.com/tron/665/goosebet
+DApp https://dappradar.com/tron/621/1cent
+Bailout smart contracts: https://dappradar.com/tron/621/1cent
+Retry...
+DApp https://dappradar.com/tron/621/1cent
+DApp https://dappradar.com/tron/21/poloni-dex
+Bailout smart contracts: https://dappradar.com/tron/21/poloni-dex
+Retry...
+DApp https://dappradar.com/tron/21/poloni-dex
+Bailout smart contracts: https://dappradar.com/tron/21/poloni-dex
+Retry...
+DApp https://dappradar.com/tron/21/poloni-dex
+Bailout smart contracts: https://dappradar.com/tron/21/poloni-dex
+Retry...
+DApp https://dappradar.com/tron/21/poloni-dex
+DApp https://dappradar.com/hive/1/hive-blog
+DApp https://dappradar.com/tron/635/ioi-game
+Bailout smart contracts: https://dappradar.com/tron/635/ioi-game
+Retry...
+DApp https://dappradar.com/tron/635/ioi-game
+DApp https://dappradar.com/hive/2/peakd
+DApp https://dappradar.com/tron/370/rocketgame
+Bailout smart contracts: https://dappradar.com/tron/370/rocketgame
+Retry...
+DApp https://dappradar.com/tron/370/rocketgame
+DApp https://dappradar.com/eos/976/prospectors
+DApp https://dappradar.com/tron/70/trontrade
+DApp https://dappradar.com/app/1801/forsage
+DApp https://dappradar.com/app/1559/1inch
+DApp https://dappradar.com/eos/669/newdex
+Bailout smart contracts: https://dappradar.com/eos/669/newdex
+Retry...
+DApp https://dappradar.com/eos/669/newdex
+Bailout smart contracts: https://dappradar.com/eos/669/newdex
+Retry...
+DApp https://dappradar.com/eos/669/newdex
+DApp https://dappradar.com/eos/1120/yup
+Bailout smart contracts: https://dappradar.com/eos/1120/yup
+Retry...
+DApp https://dappradar.com/eos/1120/yup
+DApp https://dappradar.com/tron/488/cryptotree
+DApp https://dappradar.com/steem/2/drugwars
+DApp https://dappradar.com/hive/3/esteem
+Bailout smart contracts: https://dappradar.com/hive/3/esteem
+Retry...
+DApp https://dappradar.com/hive/3/esteem
+DApp https://dappradar.com/tron/706/tron-funding
+Bailout smart contracts: https://dappradar.com/tron/706/tron-funding
+Retry...
+DApp https://dappradar.com/tron/706/tron-funding
+DApp https://dappradar.com/eos/1147/chain-clash
+Bailout smart contracts: https://dappradar.com/eos/1147/chain-clash
+Retry...
+DApp https://dappradar.com/eos/1147/chain-clash
+DApp https://dappradar.com/app/165/idex
+DApp https://dappradar.com/tron/668/trich
+DApp https://dappradar.com/thundercore/23/serious-dice
+DApp https://dappradar.com/app/1602/uniswap
+Bailout smart contracts: https://dappradar.com/app/1602/uniswap
+Retry...
+DApp https://dappradar.com/app/1602/uniswap
+Bailout smart contracts: https://dappradar.com/app/1602/uniswap
+Retry...
+DApp https://dappradar.com/app/1602/uniswap
+Bailout smart contracts: https://dappradar.com/app/1602/uniswap
+Retry...
+DApp https://dappradar.com/app/1602/uniswap
+Bailout smart contracts: https://dappradar.com/app/1602/uniswap
+Retry...
+DApp https://dappradar.com/app/1602/uniswap
+Bailout smart contracts: https://dappradar.com/app/1602/uniswap
+DApp https://dappradar.com/app/1810/synthetix
+DApp https://dappradar.com/app/1747/hex
+DApp https://dappradar.com/tron/698/tron-money
+Bailout smart contracts: https://dappradar.com/tron/698/tron-money
+Retry...
+DApp https://dappradar.com/tron/698/tron-money
+DApp https://dappradar.com/steem/10/appics
+Bailout smart contracts: https://dappradar.com/steem/10/appics
+Retry...
+DApp https://dappradar.com/steem/10/appics
+DApp https://dappradar.com/eos/1209/felix
+DApp https://dappradar.com/tron/527/bitlex-games-sport
+DApp https://dappradar.com/tron/446/cryptofriends
+Bailout smart contracts: https://dappradar.com/tron/446/cryptofriends
+Retry...
+DApp https://dappradar.com/tron/446/cryptofriends
+Bailout smart contracts: https://dappradar.com/tron/446/cryptofriends
+Retry...
+DApp https://dappradar.com/tron/446/cryptofriends
+DApp https://dappradar.com/app/989/compound
+DApp https://dappradar.com/tron/596/cosmos-games
+DApp https://dappradar.com/tron/22/888tron
+Bailout smart contracts: https://dappradar.com/tron/22/888tron
+Retry...
+DApp https://dappradar.com/tron/22/888tron
+Bailout smart contracts: https://dappradar.com/tron/22/888tron
+Retry...
+DApp https://dappradar.com/tron/22/888tron
+Bailout smart contracts: https://dappradar.com/tron/22/888tron
+Retry...
+DApp https://dappradar.com/tron/22/888tron
+Bailout smart contracts: https://dappradar.com/tron/22/888tron
+Retry...
+DApp https://dappradar.com/tron/22/888tron
+Bailout smart contracts: https://dappradar.com/tron/22/888tron
+DApp https://dappradar.com/tron/631/chainz-arena-play-and-earn
+DApp https://dappradar.com/app/1823/aave
+DApp https://dappradar.com/tron/204/goodluck-casino
+Bailout smart contracts: https://dappradar.com/tron/204/goodluck-casino
+Retry...
+DApp https://dappradar.com/tron/204/goodluck-casino
+DApp https://dappradar.com/tron/685/t2x
+Bailout smart contracts: https://dappradar.com/tron/685/t2x
+Retry...
+DApp https://dappradar.com/tron/685/t2x
+DApp https://dappradar.com/tron/654/nexus-tron
+DApp https://dappradar.com/tron/391/video-poker
+Bailout smart contracts: https://dappradar.com/tron/391/video-poker
+Retry...
+DApp https://dappradar.com/tron/391/video-poker
+DApp https://dappradar.com/tron/643/oikos-cash
+Bailout smart contracts: https://dappradar.com/tron/643/oikos-cash
+Retry...
+DApp https://dappradar.com/tron/643/oikos-cash
+Bailout social: https://dappradar.com/tron/643/oikos-cash
+Bailout smart contracts: https://dappradar.com/tron/643/oikos-cash
+Retry...
+DApp https://dappradar.com/tron/643/oikos-cash
+Bailout social: https://dappradar.com/tron/643/oikos-cash
+Bailout smart contracts: https://dappradar.com/tron/643/oikos-cash
+Retry...
+DApp https://dappradar.com/tron/643/oikos-cash
+DApp https://dappradar.com/tron/358/blackjack
+DApp https://dappradar.com/tron/697/tronsky
+Bailout smart contracts: https://dappradar.com/tron/697/tronsky
+Retry...
+DApp https://dappradar.com/tron/697/tronsky
+Plotting...
+Traceback (most recent call last):
+  File "DappRadar.py", line 339, in <module>
+    result['smartContract'] = result['smartContract'].astype(int)
+  File "/usr/lib/python3/dist-packages/pandas/core/generic.py", line 5881, in astype
+    new_data = self._data.astype(
+  File "/usr/lib/python3/dist-packages/pandas/core/internals/managers.py", line 581, in astype
+    return self.apply("astype", dtype=dtype, **kwargs)
+  File "/usr/lib/python3/dist-packages/pandas/core/internals/managers.py", line 438, in apply
+    applied = getattr(b, f)(**kwargs)
+  File "/usr/lib/python3/dist-packages/pandas/core/internals/blocks.py", line 559, in astype
+    return self._astype(dtype, copy=copy, errors=errors, values=values, **kwargs)
+  File "/usr/lib/python3/dist-packages/pandas/core/internals/blocks.py", line 643, in _astype
+    values = astype_nansafe(vals1d, dtype, copy=True, **kwargs)
+  File "/usr/lib/python3/dist-packages/pandas/core/dtypes/cast.py", line 711, in astype_nansafe
+    return lib.astype_intsafe(arr.ravel(), dtype).reshape(arr.shape)
+  File "pandas/_libs/lib.pyx", line 547, in pandas._libs.lib.astype_intsafe
+ValueError: invalid literal for int() with base 10: ''
+Crawl date: 2020-07-30T03:00:02.104843
+Crawl executable: /opt/google/chrome/google-chrome
+Crawl site: https://dappradar.com/rankings
+Crawl pages: 2.0
+Crawl DApps Index Length: 25 at index -1
+nextpage: https://dappradar.com/rankings/2
+Crawl DApps Index Length: 26 at index 0
+Crawl DApps Total Length: 50 capped at 100
+Crawl DApps: 50 with links 50
+DApps:                             Name      category  ...   Txn24     platform
+0                 Tron Investing     High-Risk  ...   19.7k         TRON
+1                  Splinterlands         Games  ...  627.7k         Hive
+2                   Bank of TRON     High-Risk  ...   31.7k         TRON
+3           Crypto Dynasty (EOS)         Games  ...   67.4k          EOS
+4                        EarnBet      Gambling  ...  123.2k          WAX
+5                         Upland         Games  ...    5.9k          EOS
+6                           WINk      Gambling  ...  114.8k         TRON
+7                    PROSPECTORS         Games  ...   23.6k          WAX
+8                        Steemit        Social  ...    6.7k        Steem
+9                     RocketGame      Gambling  ...   16.9k         TRON
+10                      GooseBet      Gambling  ...    1.6k         TRON
+11                     Hive Blog        Social  ...    5.9k         Hive
+12                    Poloni DEX     Exchanges  ...   12.8k         TRON
+13                         1cent      Gambling  ...    3.8k         TRON
+14                      IOI-game         Games  ...    1.4k         TRON
+15                         Peakd        Social  ...    5.6k         Hive
+16                   PROSPECTORS         Games  ...   13.7k          EOS
+17                       Forsage     High-Risk  ...   11.2k          ETH
+18                     TronTrade     Exchanges  ...     14k         TRON
+19                  Tron Funding     High-Risk  ...    3.6k         TRON
+20                      DrugWars         Games  ...    1.1k        Steem
+21                         1inch          DeFi  ...      2k          ETH
+22                           Yup        Social  ...    7.6k          EOS
+23                        Newdex     Exchanges  ...   47.6k          EOS
+24                   Chain Clash         Games  ...    3.8k          EOS
+25                    CryptoTree  Collectibles  ...    1.9k         TRON
+26                     Synthetix          DeFi  ...    1.5k          ETH
+27                       888TRON      Gambling  ...   15.1k         TRON
+28                        Esteem        Social  ...    2.8k         Hive
+29                         Felix      Gambling  ...   53.6k          EOS
+30                  Serious Dice      Gambling  ...   38.2k  ThunderCore
+31          Bitlex Games & Sport      Gambling  ...    3.2k         TRON
+32                     399Energy     High-Risk  ...     863          ETH
+33                 EvolutionLand         Games  ...      1k          ETH
+34                 CryptoFriends     High-Risk  ...     568         TRON
+35                  COSMOS GAMES      Gambling  ...   25.2k         TRON
+36                        APPICS         Other  ...    2.4k        Steem
+37                          IDEX     Exchanges  ...    4.9k          ETH
+38  ChainZ Arena - Play and Earn         Games  ...    3.1k         TRON
+39                          JUST          DeFi  ...    1.5k         TRON
+40                       Uniswap     Exchanges  ...    1.1k          ETH
+41                         Trich      Gambling  ...    5.6k         TRON
+42                      MakerDAO          DeFi  ...     378          ETH
+43                      Compound          DeFi  ...     768          ETH
+44               GoodLuck Casino      Gambling  ...     575         TRON
+45                    NEXUS TRON     High-Risk  ...     535         TRON
+46                          Aave          DeFi  ...     935          ETH
+47                           T2X     High-Risk  ...    1.4k         TRON
+48                    TRON Money     High-Risk  ...    1.5k         TRON
+49                       TronSky     High-Risk  ...     889         TRON
+
+[50 rows x 7 columns]
+DApp https://dappradar.com/tron/686/tron-investing
+DApp https://dappradar.com/hive/20/splinterlands
+DApp https://dappradar.com/tron/299/bank-of-tron
+DApp https://dappradar.com/eos/1059/crypto-dynasty-eos
+DApp https://dappradar.com/wax/26/earnbet
+DApp https://dappradar.com/eos/1211/upland
+DApp https://dappradar.com/tron/2/wink
+DApp https://dappradar.com/wax/1/prospectors
+DApp https://dappradar.com/steem/9/steemit
+DApp https://dappradar.com/tron/370/rocketgame
+DApp https://dappradar.com/tron/665/goosebet
+DApp https://dappradar.com/hive/1/hive-blog
+DApp https://dappradar.com/tron/21/poloni-dex
+DApp https://dappradar.com/tron/621/1cent
+DApp https://dappradar.com/tron/635/ioi-game
+DApp https://dappradar.com/hive/2/peakd
+DApp https://dappradar.com/eos/976/prospectors
+DApp https://dappradar.com/app/1801/forsage
+DApp https://dappradar.com/tron/70/trontrade
+DApp https://dappradar.com/tron/706/tron-funding
+DApp https://dappradar.com/steem/2/drugwars
+DApp https://dappradar.com/app/1559/1inch
+DApp https://dappradar.com/eos/1120/yup
+DApp https://dappradar.com/eos/669/newdex
+DApp https://dappradar.com/eos/1147/chain-clash
+DApp https://dappradar.com/tron/488/cryptotree
+DApp https://dappradar.com/app/1810/synthetix
+DApp https://dappradar.com/tron/22/888tron
+DApp https://dappradar.com/hive/3/esteem
+DApp https://dappradar.com/eos/1209/felix
+DApp https://dappradar.com/thundercore/23/serious-dice
+DApp https://dappradar.com/tron/527/bitlex-games-sport
+DApp https://dappradar.com/app/1993/399energy
+DApp https://dappradar.com/app/1192/evolutionland
+DApp https://dappradar.com/tron/446/cryptofriends
+DApp https://dappradar.com/tron/596/cosmos-games
+DApp https://dappradar.com/steem/10/appics
+DApp https://dappradar.com/app/165/idex
+DApp https://dappradar.com/tron/631/chainz-arena-play-and-earn
+DApp https://dappradar.com/tron/628/just
+DApp https://dappradar.com/app/1602/uniswap
+Bailout social: https://dappradar.com/app/1602/uniswap
+Bailout smart contracts: https://dappradar.com/app/1602/uniswap
+Retry...
+DApp https://dappradar.com/app/1602/uniswap
+DApp https://dappradar.com/tron/668/trich
+DApp https://dappradar.com/app/791/makerdao
+DApp https://dappradar.com/app/989/compound
+DApp https://dappradar.com/tron/204/goodluck-casino
+DApp https://dappradar.com/tron/654/nexus-tron
+DApp https://dappradar.com/app/1823/aave
+DApp https://dappradar.com/tron/685/t2x
+DApp https://dappradar.com/tron/698/tron-money
+DApp https://dappradar.com/tron/697/tronsky
+Plotting...
+Traceback (most recent call last):
+  File "DappRadar.py", line 360, in <module>
+    f2=pd.read_csv(filepathY+'/DappRadar.csv')
+  File "/usr/lib/python3/dist-packages/pandas/io/parsers.py", line 685, in parser_f
+    return _read(filepath_or_buffer, kwds)
+  File "/usr/lib/python3/dist-packages/pandas/io/parsers.py", line 457, in _read
+    parser = TextFileReader(fp_or_buf, **kwds)
+  File "/usr/lib/python3/dist-packages/pandas/io/parsers.py", line 895, in __init__
+    self._make_engine(self.engine)
+  File "/usr/lib/python3/dist-packages/pandas/io/parsers.py", line 1135, in _make_engine
+    self._engine = CParserWrapper(self.f, **self.options)
+  File "/usr/lib/python3/dist-packages/pandas/io/parsers.py", line 1917, in __init__
+    self._reader = parsers.TextReader(src, **kwds)
+  File "pandas/_libs/parsers.pyx", line 382, in pandas._libs.parsers.TextReader.__cinit__
+  File "pandas/_libs/parsers.pyx", line 689, in pandas._libs.parsers.TextReader._setup_parser_source
+FileNotFoundError: [Errno 2] File b'dappRadar-2020-07-29/DappRadar.csv' does not exist: b'dappRadar-2020-07-29/DappRadar.csv'
+Crawl date: 2020-07-31T03:00:01.731546
+Crawl executable: /opt/google/chrome/google-chrome
+Crawl site: https://dappradar.com/rankings
+Crawl pages: 2.0
+Crawl DApps Index Length: 26 at index -1
+nextpage: https://dappradar.com/rankings/2
+Crawl DApps Index Length: 25 at index 0
+Crawl DApps Total Length: 50 capped at 100
+Crawl DApps: 50 with links 50
+DApps:                             Name      category  ...   Txn24     platform
+0                 Tron Investing     High-Risk  ...   21.9k         TRON
+1                  Splinterlands         Games  ...  588.3k         Hive
+2                   Bank of TRON     High-Risk  ...   33.9k         TRON
+3           Crypto Dynasty (EOS)         Games  ...   59.1k          EOS
+4                        EarnBet      Gambling  ...  115.2k          WAX
+5                         Upland         Games  ...    6.9k          EOS
+6                           WINk      Gambling  ...  118.9k         TRON
+7                    PROSPECTORS         Games  ...   22.4k          WAX
+8                        Steemit        Social  ...      7k        Steem
+9                       GooseBet      Gambling  ...    1.8k         TRON
+10                  Tron Funding     High-Risk  ...    6.3k         TRON
+11                    Poloni DEX     Exchanges  ...   14.4k         TRON
+12                      IOI-game         Games  ...    1.4k         TRON
+13                     Hive Blog        Social  ...    6.4k         Hive
+14                         Peakd        Social  ...    5.5k         Hive
+15                         1cent      Gambling  ...    3.5k         TRON
+16                    RocketGame      Gambling  ...   14.3k         TRON
+17                     TronTrade     Exchanges  ...   14.9k         TRON
+18                   PROSPECTORS         Games  ...   12.7k          EOS
+19                       Forsage     High-Risk  ...   10.7k          ETH
+20                           Yup        Social  ...   17.9k          EOS
+21                        Newdex     Exchanges  ...   38.3k          EOS
+22                   Chain Clash         Games  ...    3.8k          EOS
+23                          JUST          DeFi  ...    2.2k         TRON
+24                    CryptoTree  Collectibles  ...    2.1k         TRON
+25                         1inch          DeFi  ...    1.7k          ETH
+26                     Synthetix          DeFi  ...    1.3k          ETH
+27                       888TRON      Gambling  ...   14.7k         TRON
+28                        Esteem        Social  ...    2.8k         Hive
+29                         Felix      Gambling  ...   58.5k          EOS
+30                     399Energy     High-Risk  ...      1k          ETH
+31                       Defibox     Exchanges  ...    3.9k          EOS
+32          Bitlex Games & Sport      Gambling  ...    3.2k         TRON
+33                        APPICS         Other  ...    2.3k        Steem
+34               EthereumGold.io     High-Risk  ...      1k          ETH
+35                         Trich      Gambling  ...    5.7k         TRON
+36                    Tron Miner     High-Risk  ...    1.4k         TRON
+37                    Play Royal      Gambling  ...    3.4k         TRON
+38                      DrugWars         Games  ...     625        Steem
+39                Super Chickens     High-Risk  ...    1.3k         TRON
+40                 CryptoFriends     High-Risk  ...     543         TRON
+41                       Uniswap     Exchanges  ...     942          ETH
+42                  Serious Dice      Gambling  ...   36.9k  ThunderCore
+43  ChainZ Arena - Play and Earn         Games  ...    2.9k         TRON
+44               GoodLuck Casino      Gambling  ...     601         TRON
+45                          IDEX     Exchanges  ...    4.7k          ETH
+46                           T2X     High-Risk  ...    1.4k         TRON
+47                    NEXUS TRON     High-Risk  ...     511         TRON
+48                      Compound          DeFi  ...     650          ETH
+49                      MakerDAO          DeFi  ...     317          ETH
+
+[50 rows x 7 columns]
+DApp https://dappradar.com/tron/686/tron-investing
+DApp https://dappradar.com/hive/20/splinterlands
+DApp https://dappradar.com/tron/299/bank-of-tron
+DApp https://dappradar.com/eos/1059/crypto-dynasty-eos
+DApp https://dappradar.com/wax/26/earnbet
+DApp https://dappradar.com/eos/1211/upland
+DApp https://dappradar.com/tron/2/wink
+DApp https://dappradar.com/wax/1/prospectors
+DApp https://dappradar.com/steem/9/steemit
+DApp https://dappradar.com/tron/665/goosebet
+DApp https://dappradar.com/tron/706/tron-funding
+DApp https://dappradar.com/tron/21/poloni-dex
+DApp https://dappradar.com/tron/635/ioi-game
+DApp https://dappradar.com/hive/1/hive-blog
+DApp https://dappradar.com/hive/2/peakd
+DApp https://dappradar.com/tron/621/1cent
+DApp https://dappradar.com/tron/370/rocketgame
+DApp https://dappradar.com/tron/70/trontrade
+DApp https://dappradar.com/eos/976/prospectors
+DApp https://dappradar.com/app/1801/forsage
+DApp https://dappradar.com/eos/1120/yup
+DApp https://dappradar.com/eos/669/newdex
+DApp https://dappradar.com/eos/1147/chain-clash
+DApp https://dappradar.com/tron/628/just
+DApp https://dappradar.com/tron/488/cryptotree
+DApp https://dappradar.com/app/1559/1inch
+DApp https://dappradar.com/app/1810/synthetix
+DApp https://dappradar.com/tron/22/888tron
+DApp https://dappradar.com/hive/3/esteem
+DApp https://dappradar.com/eos/1209/felix
+DApp https://dappradar.com/app/1993/399energy
+DApp https://dappradar.com/eos/1240/defibox
+DApp https://dappradar.com/tron/527/bitlex-games-sport
+DApp https://dappradar.com/steem/10/appics
+DApp https://dappradar.com/app/1400/ethereumgold-io
+DApp https://dappradar.com/tron/668/trich
+DApp https://dappradar.com/tron/717/tron-miner
+DApp https://dappradar.com/tron/485/play-royal
+DApp https://dappradar.com/steem/2/drugwars
+DApp https://dappradar.com/tron/715/super-chickens
+DApp https://dappradar.com/tron/446/cryptofriends
+DApp https://dappradar.com/app/1602/uniswap
+DApp https://dappradar.com/thundercore/23/serious-dice
+DApp https://dappradar.com/tron/631/chainz-arena-play-and-earn
+DApp https://dappradar.com/tron/204/goodluck-casino
+DApp https://dappradar.com/app/165/idex
+DApp https://dappradar.com/tron/685/t2x
+DApp https://dappradar.com/tron/654/nexus-tron
+DApp https://dappradar.com/app/989/compound
+DApp https://dappradar.com/app/791/makerdao
+Plotting...
+
+ [1m The new dapps added: 5 DApps[0m 
+
+             Name  ... smartContract
+33  EvolutionLand  ...            80
+35   COSMOS GAMES  ...             4
+46           Aave  ...            19
+48     TRON Money  ...             1
+49        TronSky  ...             1
+
+[5 rows x 16 columns]
+
+ [1m The removed dapps: 5 DApps [0m 
+
+               Name  ... smartContract
+31          Defibox  ...             1
+34  EthereumGold.io  ...             1
+36       Tron Miner  ...             1
+37       Play Royal  ...             4
+39   Super Chickens  ...             1
+
+[5 rows x 16 columns]
+Finished: 2020-07-31T03:01:43.049054
+Crawl date: 2020-08-01T03:00:02.102720
+Crawl executable: /opt/google/chrome/google-chrome
+Crawl site: https://dappradar.com/rankings
+Crawl pages: 2.0
+Crawl DApps Index Length: 26 at index -1
+nextpage: https://dappradar.com/rankings/2
+Crawl DApps Index Length: 26 at index 0
+Crawl DApps Total Length: 50 capped at 100
+Crawl DApps: 50 with links 50
+DApps:                             Name      category  ...   Txn24     platform
+0                  Splinterlands         Games  ...  549.6k         Hive
+1                   Bank of TRON     High-Risk  ...   32.1k         TRON
+2           Crypto Dynasty (EOS)         Games  ...   53.4k          EOS
+3                            Yup        Social  ...   11.5k          EOS
+4                        EarnBet      Gambling  ...  104.2k          WAX
+5                 Tron Investing     High-Risk  ...    4.6k         TRON
+6                   Tron Funding     High-Risk  ...    8.2k         TRON
+7                       GooseBet      Gambling  ...      2k         TRON
+8                         Upland         Games  ...    7.1k          EOS
+9                           WINk      Gambling  ...    125k         TRON
+10                   PROSPECTORS         Games  ...   23.1k          WAX
+11                    RocketGame      Gambling  ...   13.9k         TRON
+12                       Steemit        Social  ...    7.3k        Steem
+13                    Poloni DEX     Exchanges  ...   12.5k         TRON
+14                      IOI-game         Games  ...    1.4k         TRON
+15                         Peakd        Social  ...    5.4k         Hive
+16                         1cent      Gambling  ...    4.9k         TRON
+17                     Hive Blog        Social  ...    6.7k         Hive
+18                     TronTrade     Exchanges  ...   11.9k         TRON
+19                   PROSPECTORS         Games  ...   11.6k          EOS
+20                          JUST          DeFi  ...    2.4k         TRON
+21                       Forsage     High-Risk  ...    9.1k          ETH
+22                        Newdex     Exchanges  ...   31.7k          EOS
+23                  Perfect Tron     High-Risk  ...    2.1k         TRON
+24                    CryptoTree  Collectibles  ...      3k         TRON
+25                   Chain Clash         Games  ...    3.6k          EOS
+26                         1inch          DeFi  ...    1.6k          ETH
+27                       888TRON      Gambling  ...   14.9k         TRON
+28                      DrugWars         Games  ...     910        Steem
+29                     Synthetix          DeFi  ...    1.4k          ETH
+30                       Uniswap     Exchanges  ...    1.3k          ETH
+31                        Esteem        Social  ...    2.7k         Hive
+32                         Felix      Gambling  ...   56.8k          EOS
+33                          IDEX     Exchanges  ...    5.9k          ETH
+34                    Tron Miner     High-Risk  ...    1.6k         TRON
+35          Bitlex Games & Sport      Gambling  ...    3.3k         TRON
+36                        APPICS         Other  ...    2.6k        Steem
+37                  Serious Dice      Gambling  ...   32.2k  ThunderCore
+38                    Play Royal      Gambling  ...    3.5k         TRON
+39                Super Chickens     High-Risk  ...    1.3k         TRON
+40                 CryptoFriends     High-Risk  ...     543         TRON
+41                       Defibox     Exchanges  ...    3.5k          EOS
+42                    NEXUS TRON     High-Risk  ...     533         TRON
+43               GoodLuck Casino      Gambling  ...     570         TRON
+44  ChainZ Arena - Play and Earn         Games  ...    2.9k         TRON
+45                       TronSky     High-Risk  ...      1k         TRON
+46                      MakerDAO          DeFi  ...     242          ETH
+47                           T2X     High-Risk  ...    1.3k         TRON
+48                   Video Poker      Gambling  ...     470         TRON
+49                          Aave          DeFi  ...     845          ETH
+
+[50 rows x 7 columns]
+DApp https://dappradar.com/hive/20/splinterlands
+DApp https://dappradar.com/tron/299/bank-of-tron
+DApp https://dappradar.com/eos/1059/crypto-dynasty-eos
+DApp https://dappradar.com/eos/1120/yup
+DApp https://dappradar.com/wax/26/earnbet
+DApp https://dappradar.com/tron/686/tron-investing
+DApp https://dappradar.com/tron/706/tron-funding
+DApp https://dappradar.com/tron/665/goosebet
+DApp https://dappradar.com/eos/1211/upland
+DApp https://dappradar.com/tron/2/wink
+DApp https://dappradar.com/wax/1/prospectors
+DApp https://dappradar.com/tron/370/rocketgame
+DApp https://dappradar.com/steem/9/steemit
+DApp https://dappradar.com/tron/21/poloni-dex
+DApp https://dappradar.com/tron/635/ioi-game
+DApp https://dappradar.com/hive/2/peakd
+DApp https://dappradar.com/tron/621/1cent
+DApp https://dappradar.com/hive/1/hive-blog
+DApp https://dappradar.com/tron/70/trontrade
+DApp https://dappradar.com/eos/976/prospectors
+DApp https://dappradar.com/tron/628/just
+DApp https://dappradar.com/app/1801/forsage
+DApp https://dappradar.com/eos/669/newdex
+DApp https://dappradar.com/tron/719/perfect-tron
+DApp https://dappradar.com/tron/488/cryptotree
+DApp https://dappradar.com/eos/1147/chain-clash
+DApp https://dappradar.com/app/1559/1inch
+DApp https://dappradar.com/tron/22/888tron
+DApp https://dappradar.com/steem/2/drugwars
+DApp https://dappradar.com/app/1810/synthetix
+DApp https://dappradar.com/app/1602/uniswap
+DApp https://dappradar.com/hive/3/esteem
+DApp https://dappradar.com/eos/1209/felix
+DApp https://dappradar.com/app/165/idex
+DApp https://dappradar.com/tron/717/tron-miner
+DApp https://dappradar.com/tron/527/bitlex-games-sport
+DApp https://dappradar.com/steem/10/appics
+DApp https://dappradar.com/thundercore/23/serious-dice
+DApp https://dappradar.com/tron/485/play-royal
+DApp https://dappradar.com/tron/715/super-chickens
+DApp https://dappradar.com/tron/446/cryptofriends
+DApp https://dappradar.com/eos/1240/defibox
+DApp https://dappradar.com/tron/654/nexus-tron
+DApp https://dappradar.com/tron/204/goodluck-casino
+DApp https://dappradar.com/tron/631/chainz-arena-play-and-earn
+DApp https://dappradar.com/tron/697/tronsky
+DApp https://dappradar.com/app/791/makerdao
+DApp https://dappradar.com/tron/685/t2x
+DApp https://dappradar.com/tron/391/video-poker
+DApp https://dappradar.com/app/1823/aave
+Plotting...
+
+ [1m The new dapps added: 4 DApps[0m 
+
+               Name  ... smartContract
+30        399Energy  ...             1
+34  EthereumGold.io  ...             1
+35            Trich  ...             7
+48         Compound  ...             8
+
+[4 rows x 16 columns]
+
+ [1m The removed dapps: 4 DApps [0m 
+
+            Name  ... smartContract
+23  Perfect Tron  ...             1
+45       TronSky  ...             1
+48   Video Poker  ...             1
+49          Aave  ...            19
+
+[4 rows x 16 columns]
+Finished: 2020-08-01T03:01:41.103816
+Crawl date: 2020-08-02T03:00:02.404613
+Crawl executable: /opt/google/chrome/google-chrome
+Crawl site: https://dappradar.com/rankings
+Crawl pages: 2.0
+Crawl DApps Index Length: 26 at index -1
+nextpage: https://dappradar.com/rankings/2
+Crawl DApps Index Length: 25 at index 0
+Crawl DApps Total Length: 50 capped at 100
+Crawl DApps: 50 with links 50
+DApps:                             Name      category  ...   Txn24     platform
+0                   Bank of TRON     High-Risk  ...   37.1k         TRON
+1                  Splinterlands         Games  ...  450.9k         Hive
+2           Crypto Dynasty (EOS)         Games  ...   55.7k          EOS
+3                        EarnBet      Gambling  ...  116.4k          WAX
+4                   Tron Funding     High-Risk  ...    8.2k         TRON
+5                            Yup        Social  ...    8.8k          EOS
+6                       GooseBet      Gambling  ...      2k         TRON
+7                 Tron Investing     High-Risk  ...    2.2k         TRON
+8                           WINk      Gambling  ...  127.6k         TRON
+9                    PROSPECTORS         Games  ...   22.4k          WAX
+10                       Steemit        Social  ...    6.5k        Steem
+11                        Upland         Games  ...    6.1k          EOS
+12                    Poloni DEX     Exchanges  ...   12.6k         TRON
+13                  Perfect Tron     High-Risk  ...    4.8k         TRON
+14                         1cent      Gambling  ...    4.5k         TRON
+15                      IOI-game         Games  ...    1.4k         TRON
+16                         Peakd        Social  ...    5.7k         Hive
+17                     Hive Blog        Social  ...    4.9k         Hive
+18                     TronTrade     Exchanges  ...   12.8k         TRON
+19                   PROSPECTORS         Games  ...   12.5k          EOS
+20                       Forsage     High-Risk  ...    8.5k          ETH
+21                        Newdex     Exchanges  ...     32k          EOS
+22                    CryptoTree  Collectibles  ...    3.8k         TRON
+23                         1inch          DeFi  ...    1.7k          ETH
+24                       Uniswap     Exchanges  ...    1.5k          ETH
+25                       888TRON      Gambling  ...   14.4k         TRON
+26                     Synthetix          DeFi  ...    1.4k          ETH
+27                   Chain Clash         Games  ...    3.1k          EOS
+28                    Tron Miner     High-Risk  ...    2.1k         TRON
+29                      DrugWars         Games  ...     766        Steem
+30                    RocketGame      Gambling  ...      6k         TRON
+31                         Felix      Gambling  ...   60.9k          EOS
+32                        Esteem        Social  ...    2.4k         Hive
+33          Bitlex Games & Sport      Gambling  ...    3.3k         TRON
+34                 CryptoFriends     High-Risk  ...     617         TRON
+35                        APPICS         Other  ...    2.5k        Steem
+36                      Compound          DeFi  ...     675          ETH
+37                          JUST          DeFi  ...      1k         TRON
+38                Super Chickens     High-Risk  ...    1.4k         TRON
+39                          IDEX     Exchanges  ...    4.8k          ETH
+40                      MakerDAO          DeFi  ...     169          ETH
+41               GoodLuck Casino      Gambling  ...     582         TRON
+42                       TronSky     High-Risk  ...    1.1k         TRON
+43                    NEXUS TRON     High-Risk  ...     518         TRON
+44                  COSMOS GAMES      Gambling  ...    1.9k         TRON
+45  ChainZ Arena - Play and Earn         Games  ...    2.6k         TRON
+46                           T2X     High-Risk  ...    1.5k         TRON
+47                  Serious Dice      Gambling  ...   26.4k  ThunderCore
+48                   Video Poker      Gambling  ...     474         TRON
+49                       RinoBet      Gambling  ...     454         TRON
+
+[50 rows x 7 columns]
+DApp https://dappradar.com/tron/299/bank-of-tron
+DApp https://dappradar.com/hive/20/splinterlands
+DApp https://dappradar.com/eos/1059/crypto-dynasty-eos
+DApp https://dappradar.com/wax/26/earnbet
+DApp https://dappradar.com/tron/706/tron-funding
+DApp https://dappradar.com/eos/1120/yup
+DApp https://dappradar.com/tron/665/goosebet
+DApp https://dappradar.com/tron/686/tron-investing
+DApp https://dappradar.com/tron/2/wink
+DApp https://dappradar.com/wax/1/prospectors
+DApp https://dappradar.com/steem/9/steemit
+DApp https://dappradar.com/eos/1211/upland
+DApp https://dappradar.com/tron/21/poloni-dex
+DApp https://dappradar.com/tron/719/perfect-tron
+DApp https://dappradar.com/tron/621/1cent
+DApp https://dappradar.com/tron/635/ioi-game
+DApp https://dappradar.com/hive/2/peakd
+DApp https://dappradar.com/hive/1/hive-blog
+DApp https://dappradar.com/tron/70/trontrade
+DApp https://dappradar.com/eos/976/prospectors
+DApp https://dappradar.com/app/1801/forsage
+DApp https://dappradar.com/eos/669/newdex
+Bailout smart contracts: https://dappradar.com/eos/669/newdex
+Retry...
+DApp https://dappradar.com/eos/669/newdex
+DApp https://dappradar.com/tron/488/cryptotree
+DApp https://dappradar.com/app/1559/1inch
+DApp https://dappradar.com/app/1602/uniswap
+DApp https://dappradar.com/tron/22/888tron
+DApp https://dappradar.com/app/1810/synthetix
+DApp https://dappradar.com/eos/1147/chain-clash
+DApp https://dappradar.com/tron/717/tron-miner
+DApp https://dappradar.com/steem/2/drugwars
+DApp https://dappradar.com/tron/370/rocketgame
+DApp https://dappradar.com/eos/1209/felix
+DApp https://dappradar.com/hive/3/esteem
+DApp https://dappradar.com/tron/527/bitlex-games-sport
+DApp https://dappradar.com/tron/446/cryptofriends
+DApp https://dappradar.com/steem/10/appics
+DApp https://dappradar.com/app/989/compound
+DApp https://dappradar.com/tron/628/just
+DApp https://dappradar.com/tron/715/super-chickens
+DApp https://dappradar.com/app/165/idex
+DApp https://dappradar.com/app/791/makerdao
+DApp https://dappradar.com/tron/204/goodluck-casino
+DApp https://dappradar.com/tron/697/tronsky
+DApp https://dappradar.com/tron/654/nexus-tron
+DApp https://dappradar.com/tron/596/cosmos-games
+DApp https://dappradar.com/tron/631/chainz-arena-play-and-earn
+DApp https://dappradar.com/tron/685/t2x
+DApp https://dappradar.com/thundercore/23/serious-dice
+DApp https://dappradar.com/tron/391/video-poker
+DApp https://dappradar.com/tron/677/rinobet
+Plotting...
+
+ [1m The new dapps added: 3 DApps[0m 
+
+          Name  ... smartContract
+38  Play Royal  ...             4
+41     Defibox  ...             1
+49        Aave  ...            19
+
+[3 rows x 16 columns]
+
+ [1m The removed dapps: 3 DApps [0m 
+
+            Name  ... smartContract
+36      Compound  ...             8
+44  COSMOS GAMES  ...             4
+49       RinoBet  ...             2
+
+[3 rows x 16 columns]
+Finished: 2020-08-02T03:01:56.089960
+Crawl date: 2020-08-03T03:00:22.493114
+Crawl executable: /opt/google/chrome/google-chrome
+Crawl site: https://dappradar.com/rankings
+Crawl pages: 2.0
+Crawl DApps Index Length: 26 at index -1
+nextpage: https://dappradar.com/rankings/2
+Crawl DApps Index Length: 25 at index 0
+Crawl DApps Total Length: 50 capped at 100
+Crawl DApps: 50 with links 50
+DApps:                             Name      category  ...   Txn24     platform
+0                   Bank of TRON     High-Risk  ...   42.9k         TRON
+1                  Splinterlands         Games  ...  496.6k         Hive
+2           Crypto Dynasty (EOS)         Games  ...   52.6k          EOS
+3                            Yup        Social  ...   10.3k          EOS
+4                        EarnBet      Gambling  ...  103.7k          WAX
+5                       GooseBet      Gambling  ...    2.2k         TRON
+6                           JUST          DeFi  ...    4.2k         TRON
+7                     RocketGame      Gambling  ...   15.1k         TRON
+8                         Upland         Games  ...    5.9k          EOS
+9                 Tron Investing     High-Risk  ...    2.1k         TRON
+10                       Steemit        Social  ...    8.3k        Steem
+11                  Perfect Tron     High-Risk  ...    4.6k         TRON
+12                   PROSPECTORS         Games  ...   22.4k          WAX
+13                          WINk      Gambling  ...  127.1k         TRON
+14                    Play Royal      Gambling  ...    9.1k         TRON
+15                         1cent      Gambling  ...    7.3k         TRON
+16                    Poloni DEX     Exchanges  ...   13.3k         TRON
+17                      IOI-game         Games  ...    1.4k         TRON
+18                         Peakd        Social  ...    5.3k         Hive
+19                     Hive Blog        Social  ...    5.8k         Hive
+20                     TronTrade     Exchanges  ...   13.7k         TRON
+21                      DrugWars         Games  ...    1.2k        Steem
+22                   PROSPECTORS         Games  ...   11.9k          EOS
+23                        Newdex     Exchanges  ...   34.6k          EOS
+24                       Forsage     High-Risk  ...    8.3k          ETH
+25                    CryptoTree  Collectibles  ...    4.6k         TRON
+26                         1inch          DeFi  ...    1.6k          ETH
+27                   Chain Clash         Games  ...    2.8k          EOS
+28                     Synthetix          DeFi  ...    1.3k          ETH
+29                       888TRON      Gambling  ...   11.8k         TRON
+30                   PassiveTron     High-Risk  ...     977         TRON
+31                Super Chickens     High-Risk  ...    1.4k         TRON
+32                         Felix      Gambling  ...   53.6k          EOS
+33                         Trich      Gambling  ...    5.2k         TRON
+34                      MakerDAO          DeFi  ...     291          ETH
+35                        APPICS         Other  ...    2.6k        Steem
+36                          IDEX     Exchanges  ...    5.1k          ETH
+37                       TronSky     High-Risk  ...    1.3k         TRON
+38                  Tron Passive     High-Risk  ...      1k         TRON
+39                       Uniswap     Exchanges  ...    1.3k          ETH
+40                      Compound          DeFi  ...     728          ETH
+41                  Serious Dice      Gambling  ...   28.4k  ThunderCore
+42                  COSMOS GAMES      Gambling  ...    3.3k         TRON
+43                 CryptoFriends     High-Risk  ...     520         TRON
+44                        Esteem        Social  ...    1.8k         Hive
+45               GoodLuck Casino      Gambling  ...     560         TRON
+46                           T2X     High-Risk  ...    1.4k         TRON
+47                   Video Poker      Gambling  ...     475         TRON
+48                       RinoBet      Gambling  ...     457         TRON
+49  ChainZ Arena - Play and Earn         Games  ...    2.2k         TRON
+
+[50 rows x 7 columns]
+DApp https://dappradar.com/tron/299/bank-of-tron
+DApp https://dappradar.com/hive/20/splinterlands
+DApp https://dappradar.com/eos/1059/crypto-dynasty-eos
+DApp https://dappradar.com/eos/1120/yup
+DApp https://dappradar.com/wax/26/earnbet
+DApp https://dappradar.com/tron/665/goosebet
+DApp https://dappradar.com/tron/628/just
+DApp https://dappradar.com/tron/370/rocketgame
+DApp https://dappradar.com/eos/1211/upland
+DApp https://dappradar.com/tron/686/tron-investing
+DApp https://dappradar.com/steem/9/steemit
+DApp https://dappradar.com/tron/719/perfect-tron
+DApp https://dappradar.com/wax/1/prospectors
+DApp https://dappradar.com/tron/2/wink
+DApp https://dappradar.com/tron/485/play-royal
+DApp https://dappradar.com/tron/621/1cent
+DApp https://dappradar.com/tron/21/poloni-dex
+DApp https://dappradar.com/tron/635/ioi-game
+DApp https://dappradar.com/hive/2/peakd
+DApp https://dappradar.com/hive/1/hive-blog
+DApp https://dappradar.com/tron/70/trontrade
+DApp https://dappradar.com/steem/2/drugwars
+DApp https://dappradar.com/eos/976/prospectors
+DApp https://dappradar.com/eos/669/newdex
+DApp https://dappradar.com/app/1801/forsage
+DApp https://dappradar.com/tron/488/cryptotree
+DApp https://dappradar.com/app/1559/1inch
+DApp https://dappradar.com/eos/1147/chain-clash
+DApp https://dappradar.com/app/1810/synthetix
+DApp https://dappradar.com/tron/22/888tron
+DApp https://dappradar.com/tron/716/passivetron
+DApp https://dappradar.com/tron/715/super-chickens
+DApp https://dappradar.com/eos/1209/felix
+DApp https://dappradar.com/tron/668/trich
+DApp https://dappradar.com/app/791/makerdao
+DApp https://dappradar.com/steem/10/appics
+DApp https://dappradar.com/app/165/idex
+DApp https://dappradar.com/tron/697/tronsky
+DApp https://dappradar.com/tron/713/tron-passive
+DApp https://dappradar.com/app/1602/uniswap
+DApp https://dappradar.com/app/989/compound
+DApp https://dappradar.com/thundercore/23/serious-dice
+DApp https://dappradar.com/tron/596/cosmos-games
+DApp https://dappradar.com/tron/446/cryptofriends
+DApp https://dappradar.com/hive/3/esteem
+DApp https://dappradar.com/tron/204/goodluck-casino
+DApp https://dappradar.com/tron/685/t2x
+DApp https://dappradar.com/tron/391/video-poker
+DApp https://dappradar.com/tron/677/rinobet
+DApp https://dappradar.com/tron/631/chainz-arena-play-and-earn
+Plotting...
+
+ [1m The new dapps added: 4 DApps[0m 
+
+                    Name  ... smartContract
+4           Tron Funding  ...             1
+28            Tron Miner  ...             1
+33  Bitlex Games & Sport  ...             2
+43            NEXUS TRON  ...             2
+
+[4 rows x 16 columns]
+
+ [1m The removed dapps: 4 DApps [0m 
+
+            Name  ... smartContract
+14    Play Royal  ...             4
+30   PassiveTron  ...             1
+33         Trich  ...             7
+38  Tron Passive  ...             1
+
+[4 rows x 16 columns]
+Finished: 2020-08-03T03:02:28.507704
+Crawl date: 2020-08-04T03:00:02.495130
+Crawl executable: /opt/google/chrome/google-chrome
+Crawl site: https://dappradar.com/rankings
+Crawl pages: 2.0
+Crawl ERROR: lengths 26 26 0 0 0 0 26
